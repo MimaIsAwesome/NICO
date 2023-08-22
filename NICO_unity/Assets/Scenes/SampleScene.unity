@@ -25071,7 +25071,7 @@ MonoBehaviour:
   agentParameters:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
-  MaxStep: 1000
+  MaxStep: 5000
   joint_1: {fileID: 8883944840565352505}
   joint_2: {fileID: 5477987488110168173}
   joint_3: {fileID: 7964151551525531217}
